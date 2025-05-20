@@ -96,6 +96,7 @@ dependencies {
     implementation ("com.google.maps.android:maps-compose:2.1.0")
     implementation ("com.google.android.gms:play-services-maps:18.1.0")
     implementation(libs.generativeai)
+    implementation ("androidx.compose.material3:material3:1.3.2")
 
 
 
